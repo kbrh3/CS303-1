@@ -1,0 +1,4 @@
+﻿  functions.cpp
+C:\Users\kaily\source\repos\COMP303\303assignmentone\303assignmentone\functions.cpp(37,34): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\kaily\source\repos\COMP303\303assignmentone\303assignmentone\functions.cpp(47,15): warning C4553: '==': result of expression not used; did you intend '='?
+  303assignmentone.vcxproj -> C:\Users\kaily\source\repos\COMP303\303assignmentone\x64\Debug\303assignmentone.exe
